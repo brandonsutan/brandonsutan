@@ -1,6 +1,6 @@
 # Welcome to Brandon Sutan's Code Repository! 🌍🎮
 
-![Banner Image](https://path/to/your/banner/image.jpg)
+![Banner Image](Brandon_Sutan.png)
 
 Embark on an epic quest through the source code, pull requests, and repos that make up my GitHub kingdom. 
 
@@ -8,9 +8,9 @@ Embark on an epic quest through the source code, pull requests, and repos that m
 
 ```json
 {
-  "Name": "YourName",
+  "Name": "Brandon Sutan",
   "Job": "Software Engineer",
-  "Class": "Full-Stack Developer",
+  "Class": "Full-Stack Engineer",
   "Level": "Expert",
   "HP": "100/100",
   "Skills": ["JavaScript", "Python", "DevOps"],
@@ -30,7 +30,7 @@ Embark on an epic quest through the source code, pull requests, and repos that m
 ## 🌠 Current Ventures
 
 - Deploying scalable applications on AWS.
-- Experimenting with game development using Unity.
+- Experimenting with game development using Babylon.js
 - Grinding XP in machine learning algorithms.
 
 ## 📦 Inventory (Highlighted Projects)
@@ -44,7 +44,6 @@ Embark on an epic quest through the source code, pull requests, and repos that m
 You can reach me through the following:
 
 - 💌 Email: your.email@example.com
-- 🐦 Twitter: [@your_twitter](https://twitter.com/your_twitter)
 - 🌐 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin/)
 
 ## 🛠️ Crafting Tools (Tech Stack)
