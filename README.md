@@ -14,8 +14,7 @@ I'm Brandon Sutan, a Full Stack Engineer with a military background and a passio
 
 ## Certifications 🏅
 
-| AWS Certified Developer | CompTIA Cloud+ | Snowflake BUILD 2023 |
-|-------------------------|----------------|----------------------|
+| Meta Full-Stack Engineer | Meta Generalist Software Engineer | AWS for Games: Cloud Game Development | SSGI Scrum Master |    
 | ![AWS Badge](https://via.placeholder.com/100x100.png?text=AWS) | ![CompTIA Badge](https://via.placeholder.com/100x100.png?text=CompTIA) | ![Snowflake Badge](https://via.placeholder.com/100x100.png?text=Snowflake) |
 
 ## Hobbies & Interests 🎲
