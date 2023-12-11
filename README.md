@@ -16,9 +16,10 @@ I have an extensive military background and a passion for software engineering. 
 
 <a href="https://www.linkedin.com/in/brandonsutan/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Brandon Sutan | LinkedIn" width="107px"/></a>
 <a href="https://www.instagram.com/brandonsutan/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Brandon Sutan | Instagram" width="120x"/></a>
+<a href="brandonsutan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </br>
 - 💬 If you have any question/feedback, or want to connect and collaborate don't hesitate to reach out!
-
+  
 ## 🔭 I'm currently working on
 
 - Migrating my projects to this GitHub Profile
@@ -32,7 +33,7 @@ I have an extensive military background and a passion for software engineering. 
 - Artificial Intelligence and Machine Learning
 - Cybersecurity best practices and Red Team proficiencies
 - Minecraft Education lesson creation to supplement my childrens learning in a fun and interactive way
-- 
+- How to transition from the military into normal life
 
 ## 💼 Technical Skills
 
@@ -70,6 +71,9 @@ I have an extensive military background and a passion for software engineering. 
 
 ## 📈 GitHub Stats 
 
-<img height="180em" src="[https://github-readme-stats.vercel.app/apibrandonsutan=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true](https://github-readme-stats.vercel.app/apibrandonsutan=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)"/>
+![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonsutan&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonsutan&layout=compact&theme=radical)
+
+## 🎉 Thanks For Coming!
+![Visitor Count](https://profile-counter.glitch.me/brandonsutan/count.svg)
 
 
