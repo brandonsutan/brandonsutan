@@ -16,7 +16,7 @@ I have an extensive military background and a passion for software engineering. 
 
 <a href="https://www.linkedin.com/in/brandonsutan/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Brandon Sutan | LinkedIn" width="107px"/></a>
 <a href="https://www.instagram.com/brandonsutan/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Brandon Sutan | Instagram" width="120x"/></a>
-<a href="brandonsutan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+<a href="mailto:brandonsutan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </br>
 - 💬 If you have any question/feedback, or want to connect and collaborate don't hesitate to reach out!
   
@@ -36,7 +36,7 @@ I have an extensive military background and a passion for software engineering. 
 - How to transition from the military into normal life
 
 ## 💼 Technical Skills
-Analytics:
+**Analytics:**
 ![](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 </br>
@@ -127,15 +127,24 @@ OS:
 ![](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
-## 📝 Badge Collecting!
-<a href="https://tryhackme.com/signup?referrer=656d1f7daff36545e2b51ace" target="_blank" rel="noreferrer"><img src="https://tryhackme-badges.s3.amazonaws.com/Brandon.Sutan.png" alt="TryHackMe"></a>
-
 ## 📈 GitHub Stats 
 
 ![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=brandonsutan&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonsutan&layout=compact&theme=radical)
 
+## 👨🏽‍🎓 Learn With Me!
+<a href="https://tryhackme.com/signup?referrer=656d1f7daff36545e2b51ace" target="_blank" rel="noreferrer"><img src="https://tryhackme-badges.s3.amazonaws.com/Brandon.Sutan.png" alt="TryHackMe"></a>
+
+## 📝 Badge Collecting!
+
+
+## 🤖 Hobbies & Interests 
+
+- **Gunpla:** Assembling and customizing with precision and creativity.
+- **Warhammer:** Immersing in the art and strategy of miniature warfare.
+- **Gaming:** Exploring virtual worlds and narratives.
+  
 ## 🎉 Thanks For Coming!
 ![Visitor Count](https://profile-counter.glitch.me/brandonsutan/count.svg)
 
+"Code like it's your last line, strategize like it's your last battle, and build like it's your last model." – Brandon Sutan
 
