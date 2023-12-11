@@ -116,7 +116,8 @@ I have an extensive military background and a passion for software engineering. 
 ## 📝 Badge Collecting!
 | AWS Certified | CompTIA Cloud+ | Snowflake BUILD 2023 |
 |-------------------------|----------------|----------------------|
-|![AWS Badge](aws-knowledge-aws-for-games-cloud-game-development.png) | ![CompTIA Badge](https://via.placeholder.com/100x100.png?text=CompTIA) | ![Snowflake Badge](https://via.placeholder.com/100x100.png?text=Snowflake) |
+|<img src="aws-knowledge-aws-for-games-cloud-game-development.png" alt="AWS Badge" width="200" height="200" />
+ | ![CompTIA Badge](https://via.placeholder.com/100x100.png?text=CompTIA) | ![Snowflake Badge](https://via.placeholder.com/100x100.png?text=Snowflake) |
 ## 🤖 Hobbies & Interests 
 
 - **Gunpla:** Assembling and customizing with precision and creativity.
