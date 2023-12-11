@@ -129,11 +129,7 @@ OS:
 
 
 ## 📝 Badge Collecting!
-
-- 
-- 
-- 
-- 
+<a href="https://tryhackme.com/signup?referrer=656d1f7daff36545e2b51ace" target="_blank" rel="noreferrer"><img src="https://tryhackme-badges.s3.amazonaws.com/Brandon.Sutan.png" alt="TryHackMe"></a>
 
 ## 📈 GitHub Stats 
 
