@@ -114,9 +114,9 @@ I have an extensive military background and a passion for software engineering. 
 <a href="https://tryhackme.com/signup?referrer=656d1f7daff36545e2b51ace" target="_blank" rel="noreferrer"><img src="https://tryhackme-badges.s3.amazonaws.com/Brandon.Sutan.png" alt="TryHackMe"></a>
 
 ## 📝 Badge Collecting!
-| AWS Certified | Snowflake BUILD 2023 | Snowflake BUILD 2023 |
+| AWS Certified | Snowflake BUILD 2023 | Scrum Master |
 |-------------------------|----------------|----------------------|
-|<img src="aws-knowledge-aws-for-games-cloud-game-development.png" alt="AWS Badge" width="200" height="200" /> |<img src="9ae7ecfd-29ef-4b7a-ad96-e7fb370f92ca.png" alt="BUILD" width="200" height="200" /> | ![Snowflake Badge](https://via.placeholder.com/100x100.png?text=Snowflake) |
+|<img src="aws-knowledge-aws-for-games-cloud-game-development.png" alt="AWS Badge" width="200" height="200" /> |<img src="9ae7ecfd-29ef-4b7a-ad96-e7fb370f92ca.png" alt="Build" width="200" height="200" /> | <img src="fab2d9d9-1755-4e70-b248-1c69ddf65ed1.png" alt="Scrum Master" width="200" height="200" /> |
 ## 🤖 Hobbies & Interests 
 
 - **Gunpla:** Assembling and customizing with precision and creativity.
