@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="" target="_blank" rel="noreferrer"><img src="/brandonsutan.jpeg" alt="my banner"></a>
+  <a href="" target="_blank" rel="noreferrer"><img src="/Brandon_Sutan.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -7,7 +7,7 @@ Hi there, I'm Brandon 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Software Engineer 💻, Tech Enthusiast 🤖, and Avid Gamer 🎮!
+I'm a Full-Stack Engineer 💻, Tech Enthusiast 🤖, Army Veteran 🪖 and Avid Gamer 🎮!
 </h2> 
 
 I have an extensive military background and a passion for software engineering. Currently enhancing gaming experiences at Trashfire Games and expanding my knowledge at the University of Maryland Global Campus.
