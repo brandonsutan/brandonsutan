@@ -114,10 +114,9 @@ I have an extensive military background and a passion for software engineering. 
 <a href="https://tryhackme.com/signup?referrer=656d1f7daff36545e2b51ace" target="_blank" rel="noreferrer"><img src="https://tryhackme-badges.s3.amazonaws.com/Brandon.Sutan.png" alt="TryHackMe"></a>
 
 ## 📝 Badge Collecting!
-| AWS Certified | CompTIA Cloud+ | Snowflake BUILD 2023 |
+| AWS Certified | Snowflake BUILD 2023 | Snowflake BUILD 2023 |
 |-------------------------|----------------|----------------------|
-|<img src="aws-knowledge-aws-for-games-cloud-game-development.png" alt="AWS Badge" width="200" height="200" />
- | ![CompTIA Badge](https://via.placeholder.com/100x100.png?text=CompTIA) | ![Snowflake Badge](https://via.placeholder.com/100x100.png?text=Snowflake) |
+|<img src="aws-knowledge-aws-for-games-cloud-game-development.png" alt="AWS Badge" width="200" height="200" /> |<img src="9ae7ecfd-29ef-4b7a-ad96-e7fb370f92ca.png" alt="BUILD" width="200" height="200" /> | ![Snowflake Badge](https://via.placeholder.com/100x100.png?text=Snowflake) |
 ## 🤖 Hobbies & Interests 
 
 - **Gunpla:** Assembling and customizing with precision and creativity.
